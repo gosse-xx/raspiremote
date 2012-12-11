@@ -1,0 +1,75 @@
+.row {
+	max-width: 505px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+.btn {
+	background-image: url("../img/glyphs.png");
+	background-size: 250px 751px;
+}
+.vol {
+	max-width: 400px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+#rwdbutton {
+	background-position: -50px -418px;
+	width: 85px;
+	height: 55px;
+	margin: 15px;
+	margin-left: 0px;
+	float: left;
+}
+#playpausebutton {
+	background-position: -70px -333px;
+	width: 85px;
+	height: 55px;
+	margin: 15px;
+	margin-left: 0px;
+	float: left;
+}
+#stopbutton {
+	background-position: -44px -590px;
+	width: 85px;
+	height: 55px;
+	margin: 15px;
+	margin-right: 0px;
+	float: right;
+}
+#ffbutton {
+	background-position: -50px -500px;
+	width: 85px;
+	height: 55px;
+	margin: 15px;
+	margin-right: 0px;
+	float: right;
+}
+#voldown {
+	background-position: -60px -158px;
+	width: 55px;
+	height: 55px;
+	margin: 15px;
+	margin-left: 25px;
+	margin-right: 25px;
+	float: left;
+}
+#mute {
+	background-position: -55px -73px;
+	width: 55px;
+	height: 55px;
+	margin: 15px;
+	margin-left: 25px;
+	margin-right: 25px;
+	float: left;
+}
+#volup {
+	background-position: -65px -245px;
+	width: 55px;
+	height: 55px;
+	margin: 15px;
+	margin-left: 25px;
+	margin-right: 25px;
+	float: left;
+}
